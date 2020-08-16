@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "760161682984",
+    "firebase_url": "https://ikaradio.firebaseio.com",
+    "project_id": "ikaradio",
+    "storage_bucket": "ikaradio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760161682984:android:9a7c26771db161beca571d",
+        "android_client_info": {
+          "package_name": "ml.ikaradio.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760161682984-eg1uouidrde7fkmonvqcdk4ml8eo8b5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbuwOvpJfgQ9qOCCD7cy9dyh8Xhic3UxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760161682984-eg1uouidrde7fkmonvqcdk4ml8eo8b5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
